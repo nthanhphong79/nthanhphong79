@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nthanhphong79
+- 👋 Hi, I’m Nguyen Thanh Phong
 - 👀 I'm interested in Front-end
 - 🌱 I'm currently studying Information Technology 
 - 💞️ I'm looking to collaborate
